@@ -1,0 +1,9 @@
+https://www.php.net/manual/fr/book.image.php
+https://coolors.co/b5dfca-c5e7e2-ff6f59-b370b0-65743a
+https://www.php.net/glob
+https://www.php.net/opendir
+https://openclassrooms.com/forum/sujet/afficher-image-d039-un-dossier-en-php-75761
+http://sdz.tdct.org/sdz/lister-le-contenu-d-un-dossier-avec-php.html
+https://www.php.net/manual/fr/function.pathinfo.php
+https://grafikart.fr/forum/26202
+http://calamar.univ-ag.fr/uag/ufrsen/coursenligne/vpage/doc/librairie_gd_php.pdf
