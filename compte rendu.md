@@ -98,3 +98,5 @@ _$imagePath = "img_" . session_id() . '/' . htmlspecialchars($_POST['image_selec
 _htmlspecialchars($_POST['image_select'])_: convertit les caractères spéciaux en entités HTML pour éviter les problèmes de sécurité (comme les attaques XSS).
 
 ###Le chemin de l'image est donc construit en concaténant le dossier de l'image (basé sur l'ID de session) et le nom de l'image sélectionnée.
+
+#Ainsi, on a crée une bibliothèque d'images, qui nous va nous permettre d'afficher les images conforment à l'extension demandéeset de les afficher.
